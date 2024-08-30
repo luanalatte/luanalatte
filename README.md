@@ -34,7 +34,7 @@
 
 ###
 
-<h6 align="center">These are the technologies I use for work:</h6>
+<h5 align="center">These are the technologies I use for work:</h5>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h5 align="center">I also love putting my hands on these as often as I can!</h5>
+<h4 align="center">I also love putting my hands on these as often as I can!</h4>
 
 ###
 
