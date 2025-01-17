@@ -58,7 +58,7 @@
 
 ###
 
-<h4 align="center">I also love putting my hands on these as often as I can!</h4>
+<h4 align="center">I also love getting my paws on these as often as I can!</h4>
 
 ###
 
