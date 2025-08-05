@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Welcome to my profile! ૮ • ﻌ •  ྀིა<br><br>I'm an Argentinean Full Stack developer, currently working full-time at a local company of very passionate people.<br><br>I challenge myself everyday with building incrementally better solutions in both professional and personal projects.<br><br>I've had a thing for computers for as long as I can remember, and I've been learning stuff ever since.</p>
+<p align="left">Welcome to my profile! ૮ • ﻌ •  ྀིა<br><br>I'm an Argentinean Full Stack developer, looking to leave my mark on new an exciting prospects.<br><br>I challenge myself everyday with building incrementally better solutions in both professional and personal projects.<br><br>I've had a thing for computers for as long as I can remember, and I've been learning stuff ever since.</p>
 
 ###
 
